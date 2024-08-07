@@ -1,3 +1,19 @@
+create a new api file and move the db.json file
+and then
+you could start with this commands Open the file with VS Code 
+Step 1 Create a new terminal Terminal 2
+go to the api file with "cd" command, 
+And Run json-server --watch db.json this commond 
+Forexample: PS C:\Users\Name\Desktop\reactWorks\api json-server --watch db.json
+
+Step 2 Terminal 1 go to the redux file 
+and run 'npm start' command for your pc 
+Forexample: PS C:\Users\Name\Desktop\reactWorks\northwind-redux> npm start
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
